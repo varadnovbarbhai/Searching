@@ -5,6 +5,10 @@ void linearsearch()
 {
     
 }
+void binarysearch()
+{
+
+}
 int main()
 {
     cout<<"lets go to mumbai";
